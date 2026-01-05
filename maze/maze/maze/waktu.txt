@@ -1,0 +1,54 @@
+PLAYER  : zama
+STATUS  : MENANG
+WAKTU   : 0 menit 5 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 4 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 5 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 6 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : rizki
+STATUS  : MENANG
+WAKTU   : 0 menit 7 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 5 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 4 detik
+DIFF    : 1
+TANGGAL : 27-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 30 detik
+DIFF    : 1
+TANGGAL : 30-12-2025
+-----------------------------
+PLAYER  : raffi
+STATUS  : MENANG
+WAKTU   : 0 menit 6 detik
+DIFF    : 1
+TANGGAL : 30-12-2025
+-----------------------------
